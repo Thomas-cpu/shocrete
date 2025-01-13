@@ -1,0 +1,13 @@
+{
+    "name": "Fleet",
+    "alias": "Fleet",
+    "description": "",
+    "keywords": [],
+    "priority": 120,
+    "version": 3.3,
+    "providers": [
+        "Modules\\Fleet\\Providers\\FleetServiceProvider"
+    ],
+    "files": [],
+    "child_module": ["VehicleBookingManagement"]
+}

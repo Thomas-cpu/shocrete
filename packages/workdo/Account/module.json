@@ -1,0 +1,11 @@
+{
+    "name": "Account",
+    "alias": "Accounting",
+    "description": "",
+    "priority": 20,
+    "version":3.4,
+    "monthly_price": 10,
+    "yearly_price": 100,
+    "child_module": ["Goal" , "Plaid" , "BudgetPlanner"],
+    "package_name":"account"
+}
